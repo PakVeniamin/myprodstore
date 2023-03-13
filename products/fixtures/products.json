@@ -1,0 +1,74 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Adidas adilette sliders",
+      "description": "some description",
+      "price": "5990.00",
+      "quantity": 1,
+      "image": "products_images/adidas_adilette_sliders_uU1z03S.webp",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "adidas originals hoodie",
+      "description": "some descriptions",
+      "price": "4990.00",
+      "quantity": 2,
+      "image": "products_images/adidas_originals_hoodie_in_black_8Ii550N.webp",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "adidas toploader backpack",
+      "description": "some descriptions",
+      "price": "11990.00",
+      "quantity": 3,
+      "image": "products_images/adidas_toploader_backpack_FnFzxqP.webp",
+      "category": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "design denim jacket with borg",
+      "description": "some descriptions",
+      "price": "4490.00",
+      "quantity": 2,
+      "image": "products_images/asos_design_denim_jacket_with_borg_EzaOHKz.webp",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Oversized t-shirt",
+      "description": "some descriptions",
+      "price": "2990.00",
+      "quantity": 2,
+      "image": "products_images/asos_oversized_t-shirt_in_light_green_uRlWsEf.webp",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Nike air presto",
+      "description": "some descriptions",
+      "price": "10990.00",
+      "quantity": 2,
+      "image": "products_images/nike_air_presto.webp",
+      "category": 2
+    }
+  }
+]
